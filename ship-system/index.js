@@ -25,9 +25,10 @@ if (velocity <= 0) {
 }
 
 alert(
-  "---------- Resultado ----------\n\n" +
+  "---------- Resultado ----------\n" +
     "Piloto: " +
     pilotName +
     "\nVelocidade atual: " +
-    velocity
+    velocity +
+    " km/s"
 );
