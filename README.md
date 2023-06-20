@@ -9,3 +9,4 @@ Exercícios:
 - 3 - [Sistema de navegação de uma nave interagindo com o usuário](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system)
 - 4 - [Conversor de distância](https://github.com/maisafolgueral/exercises-javascript/tree/main/distance-conversion)
 - 5 - [Sistema de navegação de uma nave - While](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system-while)
+- 6 - [Substituir letra do nome](https://github.com/maisafolgueral/exercises-javascript/tree/main/replace-letter)
