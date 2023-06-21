@@ -11,3 +11,4 @@ Exercícios:
 - 5 - [Sistema de navegação de uma nave - While](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system-while)
 - 6 - [Substituir letra do nome](https://github.com/maisafolgueral/exercises-javascript/tree/main/replace-letter)
 - 7 - [Inverter nome da nave](https://github.com/maisafolgueral/exercises-javascript/tree/main/reverse-name)
+- 8 - [Nome e velocidade da nave - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system-function)
