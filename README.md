@@ -13,3 +13,4 @@ Exercícios:
 - 7 - [Inverter nome da nave](https://github.com/maisafolgueral/exercises-javascript/tree/main/reverse-name)
 - 8 - [Nome e velocidade da nave - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system-function)
 - 9 - [Espaçonave Aterrissagem - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-landing)
+- 10 - [Espaçonave - Array](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-array)
