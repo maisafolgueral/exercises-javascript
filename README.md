@@ -15,3 +15,4 @@ Exercícios:
 - 9 - [Espaçonave Aterrissagem - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-landing)
 - 10 - [Espaçonave - Array](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-array)
 - 11 - [Espaçonave - Objetos](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-object)
+- 12 - [Lista de casas](https://github.com/maisafolgueral/exercises-javascript/tree/main/home-list)
