@@ -14,3 +14,4 @@ Exercícios:
 - 8 - [Nome e velocidade da nave - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-system-function)
 - 9 - [Espaçonave Aterrissagem - Funções](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-landing)
 - 10 - [Espaçonave - Array](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-array)
+- 11 - [Espaçonave - Objetos](https://github.com/maisafolgueral/exercises-javascript/tree/main/ship-object)
